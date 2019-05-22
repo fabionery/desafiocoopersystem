@@ -15,6 +15,11 @@ import java.net.URISyntaxException;
 import java.util.Collection;
 import java.util.Optional;
 
+/**	
+ * 
+ * @author Fabio.Nery
+ *
+ */
 @RestController
 @RequestMapping("/api")
 class GroupController {
